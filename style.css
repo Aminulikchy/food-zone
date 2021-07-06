@@ -63,4 +63,21 @@ span{
  }
  footer p {
      text-align: center;
+     color: floralwhite;
+ }
+ .social-followers{
+     border: whitesmoke 0px solid;
+     border-radius: 20px;
+     margin-top: 10%;
+     box-shadow: whitesmoke 10px 5px 5px 10px;
+     padding: 20px 10px 20px 10px;
+ } 
+ #youtube{
+     padding-left: 230px;
+ } 
+ #instagram{
+     padding-left: 50px;
+ }
+ #facebook{
+     padding-left: 50px;
  }
